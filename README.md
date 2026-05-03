@@ -1,4 +1,4 @@
-I am Kavya D Naik , currently pursuing my MCA at CMR University and am a passionate software enthusiast. I enjoy exploring new technologies, solving problems, and developing applications that enhance my practical knowledge. I am always eager to learn and grow in the field of software development.
+Hello I am Kavya D Naik , currently pursuing my MCA at CMR University and am a passionate software enthusiast. I enjoy exploring new technologies, solving problems, and developing applications that enhance my practical knowledge. I am always eager to learn and grow in the field of software development.
 
 <!--
 **Kavyanaik-12/Kavyanaik-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
